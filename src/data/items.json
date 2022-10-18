@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Guitar",
+      "price": 129.99,
+      "imgUrl": "https://static.roland.com/assets/promos/jpg/cat-marquee_eurus_gs-1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dumbbells",
+      "price": 75,
+      "imgUrl": "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1536,b_rgb:f8f8f8/catalog/Conditioning/Strength%20Equipment/Dumbbells/IP1100/IP1100-H_ejvjae.png"
+    },
+    {
+      "id": 3,
+      "name": "iPad",
+      "price": 1200,
+      "imgUrl": "https://cdn.mos.cms.futurecdn.net/XUHrpHf5GuY6TuncpEuEKB.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Private Jet",
+      "price": 1400000,
+      "imgUrl": "https://media.gq-magazine.co.uk/photos/620f7e21610ac8bff62befbe/master/pass/180222_Plane_HP.jpg"
+    }
+  ]
